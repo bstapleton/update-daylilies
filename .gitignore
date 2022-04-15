@@ -3,3 +3,4 @@ images/*.JPG
 images/*.JPEG
 images/*.jpeg
 *.DS_Store
+data/*.sql
